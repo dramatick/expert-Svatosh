@@ -1,2 +1,3 @@
 # expert-Svatosh
-Just another repository
+Ahoj lidi, jsem konečně webově živ!
+
